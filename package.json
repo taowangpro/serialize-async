@@ -16,5 +16,14 @@
   "license": "ISC",
   "dependencies": {
     "bluebird": "^3.5.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taowangpro/serialize-async.git"
+  },
+  "bugs": {
+    "url": "https://github.com/taowangpro/serialize-async/issues"
+  },
+  "homepage": "https://github.com/taowangpro/serialize-async#readme"
 }
